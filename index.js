@@ -1,3 +1,3 @@
 'use strict';
 
-console.log('First version.');
+console.log('Second version.');
