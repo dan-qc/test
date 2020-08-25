@@ -1,3 +1,3 @@
 'use strict';
 
-console.log('Third version.');
+console.log('Forth version.');
