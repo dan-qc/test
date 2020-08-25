@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/dan-qc/test/compare/v1.1.0...v1.2.0) (2020-08-25)
+
+
+### Features
+
+* index v4 ([9235d12](https://github.com/dan-qc/test/commit/9235d12f5d4a355d3c91819b6182e00e4e5ae492))
+
 # [1.1.0](https://github.com/dan-qc/test/compare/v1.0.0...v1.1.0) (2020-08-25)
 
 
